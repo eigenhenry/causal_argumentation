@@ -2,7 +2,7 @@
 
 This repository contains the source code and experimental workflow for the paper  
 **“A Causal–Argumentation Method for Explainability of Machine Learning Models”**  
-by Henry Salgado, Meagan Kendall, and Martine Ceberio (The University of Texas at El Paso).
+
 
 The framework integrates **causal discovery** and **argumentation theory** to produce structured, causally grounded explanations for machine learning models. It combines **constraint-based causal inference** (via the FCI or PC algorithms) with **Bipolar Argumentation Frameworks (BAFs)** and **probabilistic reasoning under semi-stable semantics**.
 
