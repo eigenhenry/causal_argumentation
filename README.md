@@ -6,6 +6,11 @@ This repository contains the source code and experimental workflow for the paper
 
 The framework integrates **causal discovery** and **argumentation theory** to produce structured, causally grounded explanations for machine learning models. It combines **constraint-based causal inference** (via the FCI or PC algorithms) with **Bipolar Argumentation Frameworks (BAFs)** and **probabilistic reasoning under semi-stable semantics**.
 
+## Citation
+
+Salgado, H., Kendall, M. R., & Ceberio, M. (2026, July). A Causal Argumentation Method for Explainability of Machine Learning Models. To appear at The 4th World Conference on eXplainable Artificial Intelligence in Fortaleza, Brazil. https://arxiv.org/abs/2605.21758 
+
+
 ---
 
 ## Overview
