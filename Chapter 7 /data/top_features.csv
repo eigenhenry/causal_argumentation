@@ -1,0 +1,11 @@
+dataset,SMD,DT,LR,SHAP
+titanic,sex > pclass > fare,sex > pclass > fare,sex > pclass > age,sex > pclass > embarked
+diabetes,Glucose > BMI > Age,Glucose > Age > BMI,Glucose > BMI > Pregnancies,Glucose > BMI > Age
+adult,relationship_grp > married > age,relationship_grp > education_num > capital_gain,capital_gain > married > education_num,married > education_num > occupation_grp
+compas,priors_count > juv_any > age,priors_count > age > sex,priors_count > age > sex,priors_count > age > sex
+breast_cancer,worst perimeter > mean concave points > worst radius,worst perimeter > worst concave points > mean texture,radius error > worst texture > mean concave points,worst radius > worst area > worst smoothness
+german,checking_status > credit_history > duration,checking_status > duration > savings_status,purpose > credit_history > checking_status,checking_status > employment > purpose
+bank,poutcome > contact > pdays,poutcome > month > age,month > contact > poutcome,poutcome > contact > month
+asee,GPA at Graduation > Statics Final Grade (MECH 1321) > Credits Transferred,GPA at Graduation > Statics Final Grade (MECH 1321) > Credits Transferred,GPA at Graduation > Statics Final Grade (MECH 1321) > Credits Transferred,GPA at Graduation > Gender > Credits Transferred
+student,failures > school > higher,failures > school > romantic,Fjob > school > failures,activities > internet > Mjob
+taiwan,PAY_1 > PAY_2 > PAY_3,PAY_1 > PAY_2 > PAY_AMT3,PAY_1 > BILL_AMT1 > EDUCATION,PAY_1 > BILL_AMT2 > SEX
